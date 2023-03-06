@@ -15,4 +15,4 @@ If you use this dataset, please cite the related paper. Thanks.
 
 Guojia Hou, Yuxuan Li, Huan Yang, Kunqian Li, Zhenkuan Pan, “UID2021: An Underwater Image Dataset for 
 Evaluation of No-reference Quality Assessment Metrics,” ACM Transactions on Multimedia Computing, Communications, 
-and Applications, 2023. https://doi.org/10.1145/3578584
+and Applications, 2023, 4(19): 1-24. https://doi.org/10.1145/3578584  
